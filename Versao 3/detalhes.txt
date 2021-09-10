@@ -1,0 +1,25 @@
+epochs = 10
+treinamento = 4100
+teste = 490
+
+---------------
+Epoch 1/10
+4100/4100 [==============================] - 311s 76ms/step - loss: 0.3916 - accuracy: 0.8273 - val_loss: 0.6463 - val_accuracy: 0.6763
+Epoch 2/10
+4100/4100 [==============================] - 311s 76ms/step - loss: 0.1654 - accuracy: 0.9355 - val_loss: 0.9581 - val_accuracy: 0.7581
+Epoch 3/10
+4100/4100 [==============================] - 310s 76ms/step - loss: 0.0975 - accuracy: 0.9637 - val_loss: 0.4103 - val_accuracy: 0.8067
+Epoch 4/10
+4100/4100 [==============================] - 308s 75ms/step - loss: 0.0731 - accuracy: 0.9741 - val_loss: 1.1575 - val_accuracy: 0.8442
+Epoch 5/10
+4100/4100 [==============================] - 308s 75ms/step - loss: 0.0548 - accuracy: 0.9808 - val_loss: 0.4088 - val_accuracy: 0.8433
+Epoch 6/10
+4100/4100 [==============================] - 308s 75ms/step - loss: 0.0499 - accuracy: 0.9830 - val_loss: 1.8079 - val_accuracy: 0.7955
+Epoch 7/10
+4100/4100 [==============================] - 307s 75ms/step - loss: 0.0421 - accuracy: 0.9859 - val_loss: 0.9053 - val_accuracy: 0.8308
+Epoch 8/10
+4100/4100 [==============================] - 310s 76ms/step - loss: 0.0400 - accuracy: 0.9869 - val_loss: 0.0247 - val_accuracy: 0.8609
+Epoch 9/10
+4100/4100 [==============================] - 309s 75ms/step - loss: 0.0349 - accuracy: 0.9886 - val_loss: 2.9043 - val_accuracy: 0.8219
+Epoch 10/10
+4100/4100 [==============================] - 307s 75ms/step - loss: 0.0349 - accuracy: 0.9892 - val_loss: 1.7647 - val_accuracy: 0.8269
